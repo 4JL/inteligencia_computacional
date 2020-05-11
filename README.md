@@ -6,4 +6,6 @@ El problema que se desea resolver es tener un pronóstico de valores de la TRM p
 
 A continuación la estructura de esta entrega:
 
+![Image of Yaktocat](https://github.com/4JL/inteligencia_computacional/blob/master/image.png?raw=true)
+
 Cada modelo tiene su propia base de datos con la cual se trabajan los programas.
